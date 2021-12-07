@@ -1,0 +1,17 @@
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\GoodMatchGUI.exe
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\GoodMatchGUI.deps.json
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\GoodMatchGUI.runtimeconfig.json
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\GoodMatchGUI.dll
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\ref\GoodMatchGUI.dll
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\bin\Debug\net6.0-windows\GoodMatchGUI.pdb
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.csproj.AssemblyReference.cache
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.GoodMatchForm.resources
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.csproj.GenerateResource.cache
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.AssemblyInfoInputs.cache
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.AssemblyInfo.cs
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.csproj.CoreCompileInputs.cache
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.dll
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\ref\GoodMatchGUI.dll
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.pdb
+C:\Users\Dietrich\source\repos\GoodMatchGUI\GoodMatchGUI\obj\Debug\net6.0-windows\GoodMatchGUI.genruntimeconfig.cache
